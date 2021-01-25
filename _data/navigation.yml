@@ -1,0 +1,7 @@
+main:
+  - title: "Professional"
+    url: "/professional"
+  - title: "Link Tree"
+    url: "/linktree"
+  - title: "Recipes"
+    url: "/recipes"
