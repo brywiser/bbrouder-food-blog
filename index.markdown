@@ -2,6 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: splash
+layout: collection
+collection: recipes
+title: Recipes
 ---
-Hi, I am Bryan!  I am an avid techie, hobby photographer, and I love to bake and cook!  You can see my portfolio, food blog and some potography on my site here.
+Recipes listed below by uploaded order.  You can also search at the [search page]({% link search.md %}).

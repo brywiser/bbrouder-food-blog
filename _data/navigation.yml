@@ -1,7 +1,7 @@
 main:
+  - title: "Link Tree"
+    url: "https://www.bryanbrouder.com/home/link-tree"
+  - title: "Recipe Search"
+    url: "/search"
   - title: "Professional"
     url: "/professional"
-  - title: "Link Tree"
-    url: "/linktree"
-  - title: "Recipes"
-    url: "/recipes"

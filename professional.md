@@ -3,18 +3,11 @@ layout: single
 title: Professional
 ---
 
-## Chicago, IL
-
-### Contact  
-bryan.brouder@gmail.com  
+## Chicago, IL 
 
 ### Experience
 
-Guaranteed Rate, Aug 2019 - Present  
-QA Engineer  
+Quality Assurance engineer with 5+ years experience, in front-end, UI, API testing.  Experience using Java, Python and Javascript along with WebdriverIO and Selenium.  You can learn more and connect with me at [LinkedIn](https://www.linkedin.com/in/bryanbrouder/).
 
-Peak6, May 2018 - July 2019  
-Junior Test Engineer  
-
-Conversant Media, June 2015 - May 2018  
-QA Engineer  
+### Contact  
+bryan.brouder@gmail.com 
