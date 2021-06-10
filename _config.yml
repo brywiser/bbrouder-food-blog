@@ -19,17 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Bryan Brouder's Recipes
-email: brywiserW@gmail.com
+email: brywiser@gmail.com
 description: Site for blogging and sharing my cooking/baking obssession's!  Feel free to take a look around and share with friends and family!!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/bbrouder-food-blog" # the subpath of your site, e.g. /blog
+url: "https://food.bryanbrouder.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.23.0
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 include: ["_pages"]
 permalink: /:title/
