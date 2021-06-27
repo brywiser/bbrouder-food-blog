@@ -25,6 +25,8 @@ This recipe is great for Thanksgiving or just fall weather. It is a very simple 
 1 can (15 oz) pumpkin (Not the Pumpkin Pie Mix) 
 1 can (12 oz) evaporated milk  
 
+{% include addBreaks.html %}
+
 ## Directions
 
 1. Preheat your oven to 425F for 10 minutes.
