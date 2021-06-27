@@ -6,6 +6,8 @@ layout: single
 
 This recipe is great for Thanksgiving or just fall weather. It is a very simple pumpkin pie recipe thats simple enough to toss together in just 15 minutes and easy enough for a beginner to make! This was my first pie, and per my family, they said it was fantasic. Feel free to swap out evaporated milk for sweetened condensed milk if you like a slightly sweeter pie. Serve with homemade whipped cream!!  One note, the filling may rise during cooking, this is completely normal and it will fall after cooling.
 
+{% include print.html %}
+
 ## Ingredients
 **Press in the Pan Pastry**  
 1 1/3 cups all-purpose flour  
