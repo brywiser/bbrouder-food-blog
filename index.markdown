@@ -6,4 +6,4 @@ layout: collection
 collection: recipes
 title: Recipes
 ---
-Recipes listed below by uploaded order.  You can also search at the [search page]({% link search.md %}).
+Recipes listed below in order of when they were uploaded(most recent->least).  You can also search at the [search page]({% link search.md %}).
