@@ -19,4 +19,4 @@ This recipe rocks for a super easy chicken taco meat that can be used in Tacos, 
 2. Cover and cook on low for 6-8 hours or high for 3-4.  
 3. After cooking is complete, simply stir in the slow cooker to shred the chicken, or remove them to a bowl to shred, then add back to cooker and mix.  
 
-Enjoy!!  Garish on top of tortillas with sour cream, guac, cilantro, cheese and whatever else!  
+Enjoy!!  Garnish on top of tortillas with sour cream, guac, cilantro, cheese and whatever else!  
