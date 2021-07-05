@@ -29,7 +29,7 @@ This recipe is great for Thanksgiving or just fall weather. It is a very simple 
 
 ## Directions
 
-1. Preheat your oven to 425F for 10 minutes.
+1. Preheat your oven to 425 degrees(F) for 10 minutes.
 2. In a bowl mix flour, salt, oil until the flour is moist.  Then add the water 1 tablespoon at a time until absorbed.  You may not need all the water.  Shape the pastry into a ball.
 3. Press the ball of flour into the bottom of a 9 inch pie pan.  Spread the dough evenly around the bottom and sides, ensuring to roll a small part over the top part of the sides.
 4. In a bowl, beat eggs slightly, beat in the sugar, cinannamon, salt, ginger, cloves, pumpkin and milk.
