@@ -10,7 +10,7 @@ This dip is ALWAYS a fan favorite at every family party I have brought it too, o
 
 ## Ingredients  
 1 package of Cream Cheese(8 oz)  
-1 can of Hormel Chili with beans(In my experience, it needs to be hormel)  
+1 can of Hormel Chili with beans(In my experience, Hormel is the best)  
 Cheddar or Mexican blend shredded cheese(probably 1/2 cup)  
 
 ## Directions  

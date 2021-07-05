@@ -37,4 +37,3 @@ This recipe is great for Thanksgiving or just fall weather. It is a very simple 
 6. Reduce oven temprature to 350F, bake until a toothpick or knife inserted into the center comes out clean. About 40 minutes.  Remove from oven and cool completely before serving, roughly 2 hours.
 
 *Recipe adapted from Betty Crocker*  
-*To print this recipe just open your browser's print option*
