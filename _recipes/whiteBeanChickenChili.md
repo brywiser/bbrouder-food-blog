@@ -6,6 +6,9 @@ layout: single
 
 One of my favorites growing up!  My dad would always make this on cold fall/winter days in Chicago.  Super easy, and super super quick, 30ish minutes start to finish.  Super flavorful and no added salt if you can believe it.  Feel free to double the beans or try two different types of white(ish) beans for a way to make it your own.  Also tastes good with canned peas or corn as well!  I highly reccomend topping with sour cream and any Mexican or Taco blend shredded cheese.
 
+One of my favorite things about this recipe is while it requires a lot of ingridents, some of which are ones you might already have in your cabinet.  They are also easy ones to just keep in the cupboard for a rainy day.  
+![ChiliIngredients](../assets/img/WhiteChiliIngredients.JPG){:class="img-responsive noprint"}
+
 {% include print.html %}
 
 ## Ingredients
@@ -37,3 +40,4 @@ Sour Cream
 6. While the chili is coming to a boil, mix the cornstratch in water. Then add to the chili until it reaches the desired thickness.
 
 Enjoy!! Serve the chili with shredded cheese and sour cream if desired.  
+![ChiliCompleted](../assets/img/WhiteChiliCompleted.JPG){:class="img-responsive noprint"}
