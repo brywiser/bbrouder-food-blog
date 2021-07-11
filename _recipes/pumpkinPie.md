@@ -4,18 +4,22 @@ collection: recipes
 layout: single
 ---
 
-This recipe is great for Thanksgiving or just fall weather. It is a very simple pumpkin pie recipe thats simple enough to toss together in just 15 minutes and easy enough for a beginner to make! This was my first pie, and per my family, they said it was fantasic. Feel free to swap out evaporated milk for sweetened condensed milk if you like a slightly sweeter pie. Serve with homemade whipped cream!!
+This recipe is great for Thanksgiving or just fall weather. It is a very simple pumpkin pie recipe thats simple enough to toss together in just 15 minutes and easy enough for a beginner to make! This was my first pie, and per my family, they said it was fantasic. Feel free to swap out evaporated milk for sweetened condensed milk if you like a slightly sweeter pie. Serve with homemade whipped cream!!  
 
 Only takes a few ingredients, you can use a pie pan(I got mine at Aldi for about $8), or a dispoable tin.  
-![PieIngredients](../assets/img/PumpkinPieIngredients.JPG){:class="img-responsive noprint"}
+{:.noprint}
+![PieIngredients](/assets/img/PumpkinPieIngredients.JPG){:class="img-responsive noprint round-img"}
 
 After you mix the pastry ingredients into a ball, press it into the pan.  As you press and push the pastry around the tin, it should look similar to the picture below.  If you can, press a little pastry over the top of the sides.  
-![PiePastry](../assets/img/PatPastry.JPG){:class="img-responsive noprint"}
+{:.noprint}
+![PiePastry](/assets/img/PatPastry.JPG){:class="img-responsive noprint"}
 
 After you mix the filling and pour it into the pan with the pastry in it, bake it for 15 mins at 425. NOTE: The filling may rise during cooking, this is normal and it will fall back down.  One other tip, put a cookie sheet or some foil under the pan to catch any overflow of filling.  
+{:.noprint}
 
 Here is the final product, enjoy!!!  
-![PieFilling](../assets/img/PieCompleted.JPG){:class="img-responsive noprint"}
+{:.noprint}
+![PieFilling](/assets/img/PieCompleted.JPG){:class="img-responsive noprint"}
 
 {% include print.html %}
 
@@ -35,9 +39,7 @@ Here is the final product, enjoy!!!
 1/8 teaspoon ground cloves  
 1 can (15 oz) pumpkin (Not the Pumpkin Pie Mix) 
 1 can (12 oz) evaporated milk  
-
-{% include addBreaks.html %}
-
+{:.pageBreak}
 ## Directions
 
 1. Preheat your oven to 425 degrees(F) for 10 minutes.
