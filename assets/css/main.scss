@@ -1,0 +1,32 @@
+---
+---
+
+$link-color: rgb(0, 13, 192);
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+@media print{
+    .noprint {
+        display: none;
+    }
+    .printShow {
+    display: inline !important;
+    }
+    .pageBreak {
+        page-break-after: always;
+    }
+};
+
+img {
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: auto;
+    max-width: 100%;
+};
+
+.smallImage {
+    width: 50%;
+}
