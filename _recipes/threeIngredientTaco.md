@@ -6,6 +6,10 @@ layout: single
 
 This recipe rocks for a super easy chicken taco meat that can be used in Tacos, Salads, or even by itself if desired.  Feel free to add some onion to it, but I personally think it is great as is!  
 
+It's dead simple, just add all the ingredients to a slow and mix them together, then let it cook, very simple and just three ingredients.
+
+![TacoMeatRaw](/assets/img/TacoMeatRaw.jpg){:class="img-responsive noprint"}
+
 {% include print.html %}
 
 ## Ingredients  
@@ -20,3 +24,5 @@ This recipe rocks for a super easy chicken taco meat that can be used in Tacos, 
 3. After cooking is complete, simply stir in the slow cooker to shred the chicken, or remove them to a bowl to shred, then add back to cooker and mix.  
 
 Enjoy!!  Garnish on top of tortillas with sour cream, guac, cilantro, cheese and whatever else!  
+
+![TacoMeatCompleted](/assets/img/TacoMeatCompleted.JPG){:class="img-responsive noprint"}
