@@ -17,8 +17,7 @@ It's dead simple, just add all the ingredients to a slow and mix them together, 
 1 packet of Taco seasoning  
 8 oz(1 cup) of Salsa, jar or homemade works great  
 
-## Directions
-
+## Directions  
 1. Place all ingredients in a slow cooker and stir to combine.  
 2. Cover and cook on low for 6-8 hours or high for 3-4.  
 3. After cooking is complete, simply stir in the slow cooker to shred the chicken, or remove them to a bowl to shred, then add back to cooker and mix.  
