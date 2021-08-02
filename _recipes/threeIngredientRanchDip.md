@@ -10,7 +10,7 @@ Another family favorite and for sure crowd pleaser.  Super easy, super quick, an
 
 ## Ingredients
 1 packet of Ranch dip/dressing mix  
-16 oz of sour cream(I like oberweis)
+16 oz of sour cream(I like oberweis)  
 2 cups of finely shredded cheddar cheese  
 
 ## Directions
