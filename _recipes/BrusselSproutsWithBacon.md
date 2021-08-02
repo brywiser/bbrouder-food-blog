@@ -10,7 +10,7 @@ When I cut the bacon, I typically cut it into thin strips so it cooks quickly in
 {:.noprint}
 ![BaconChopped](/assets/img/BaconChopped.JPG){:class="img-responsive noprint"}
 
-Lay out the bacon and sprouts, add your oil and toppings, and spread it out on a cookie sheet so everything is in an even layer so it cooks evenly.
+Lay out the bacon and sprouts, add your oil and toppings, and spread it out on a cookie sheet so everything is in an one layer so it cooks evenly.
 {:.noprint}
 ![SproutsMixed](/assets/img/SproutsMixed.JPG){:class="img-responsive noprint"}
 
