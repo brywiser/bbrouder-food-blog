@@ -37,7 +37,7 @@ Here is the final product, enjoy!!!
 1/2 teaspoon salt  
 1/2 teaspoon ground ginger  
 1/8 teaspoon ground cloves  
-1 can (15 oz) pumpkin (Not the Pumpkin Pie Mix) 
+1 can (15 oz) pumpkin (Not the Pumpkin Pie Mix)  
 1 can (12 oz) evaporated milk  
 {:.pageBreak}
 ## Directions
