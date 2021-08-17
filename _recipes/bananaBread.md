@@ -6,7 +6,7 @@ layout: single
 
 For those who have had my Banana Bread(Some have described it as amazing, but I dont like to make promisees), here is my recipe.  Its really straightforward, and a good recipe if you are just starting out into baking/cooking as it's a tough recipe to dry out.  You can also make it your own by adding nuts, chocolate chips, cinnamon top(which I explain below) to this recipe.  
 
-You want the banana peel to be turning brown, do not use banana's where the peel is still green or mainly yellow.  The photo below is just past the minimum ripeness I would use to make the bread.  
+You want the banana peel to be turning brown, do not use banana's where the peel is still green or mainly yellow.  The photo below is just past the minimum ripeness for the banana's I would use to make the bread, along with the ingredients.  
 ![BananaBreadIngredients](/assets/img/BananaBreadIngredients.JPG){:class="img-responsive noprint"}
 
 After you mix the ingredients, the mixture will still be thick, and there shouldn't be clumps of banana, but might look kinda chunky.  
