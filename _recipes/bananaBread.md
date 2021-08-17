@@ -6,11 +6,14 @@ layout: single
 
 For those who have had my Banana Bread(Some have described it as amazing, but I dont like to make promisees), here is my recipe.  Its really straightforward, and a good recipe if you are just starting out into baking/cooking as it's a tough recipe to dry out.  You can also make it your own by adding nuts, chocolate chips, cinnamon top(which I explain below) to this recipe.  
 
-You want the banana peel to be turning brown, do not use banana's where the peel is still green or mainly yellow.  The photo below is just past the minimum ripeness I would use to make the bread.
+You want the banana peel to be turning brown, do not use banana's where the peel is still green or mainly yellow.  The photo below is just past the minimum ripeness I would use to make the bread.  
+![BananaBreadIngredients](/assets/img/BananaBreadIngredients.JPG){:class="img-responsive noprint"}
 
-After you mix the ingredients, the mixture will still be thick, and there shouldn't be clumps of banana, but might look kinda chunky.
+After you mix the ingredients, the mixture will still be thick, and there shouldn't be clumps of banana, but might look kinda chunky.  
+![BananaBreadMixed](/assets/img/BananaBreadMixed.JPG){:class="img-responsive noprint"}
 
 If you add the cinnanmon top, sprinkle it on top after you add the mixture to the loaf pan, not before.  
+![BananaBreadTopping](/assets/img/BananaBreadTopping.JPG){:class="img-responsive noprint"}
 
 {% include print.html %}
 
@@ -39,3 +42,4 @@ If you add the cinnanmon top, sprinkle it on top after you add the mixture to th
 6. Bake for roughly 50 minutes or until a toothpick inserted into the center comes out clean.  
 
 Enjoy!!  
+![BananaBreadCompleted](/assets/img/BananaBreadCompleted.JPG){:class="img-responsive noprint"}
