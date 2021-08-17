@@ -42,4 +42,8 @@ If you add the cinnanmon top, sprinkle it on top after you add the mixture to th
 6. Bake for roughly 50 minutes or until a toothpick inserted into the center comes out clean.  
 
 Enjoy!!  
+<<<<<<< HEAD
 ![BananaBreadCompleted](/assets/img/BananaBreadCompleted.JPG){:class="img-responsive noprint smallImage"}
+=======
+![BananaBreadCompleted](/assets/img/BananaBreadCompleted.JPG){:class="img-responsive noprint"}
+>>>>>>> 25a92a3cb751520321cf32c59f549f234bd4b4aa
