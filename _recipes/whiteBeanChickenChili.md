@@ -16,12 +16,12 @@ One of my favorite things about this recipe is while it requires a lot of ingred
 1 Tablespoon Olive Oil  
 1 Onion  
 1 Teaspoon Garlic(Adjust to taste)  
-1 Can(14 oz) Great Northern Beans  
-1 Can(14 oz) Green Chilies  
+1 Can (14 oz) Great Northern Beans  
+1 Can (14 oz) Green Chilies  
 1.5 Teaspoon's Cumin  
 1 Teaspoon Pepper  
 1/4 Teaspoon Cayenne Pepper  
-1 Can(14 oz) Chicken Broth  
+1 Can (14 oz) Chicken Broth  
 2 Tablespoons Cornstartch  
 2 Tablespoons Water  
 *Optional*  
