@@ -12,18 +12,18 @@ One of my favorite things about this recipe is while it requires a lot of ingrid
 {% include print.html %}
 
 ## Ingredients
-1 package of chicken thighs or breasts(About 1-1.5 lbs)  
-1 tablespoon olive oil  
-1 onion  
-1 teaspoon garlic(I always add extra)  
-1 can great northern beans  
-1 can green chilies  
-1 1/2 teaspoons of cumin  
-1 teaspoon pepper  
-1/4 teaspoon cayenne pepper  
-1 can chicken broth  
-2 tablespoons cornstartch  
-2 tablespoons water  
+1-1.5 Pounds of Chicken(Breasts or Thighs)  
+1 Tablespoon Olive Oil  
+1 Onion  
+1 Teaspoon Garlic(Adjust to taste)  
+1 Can(14 oz) Great Northern Beans  
+1 Can(14 oz) Green Chilies  
+1.5 Teaspoon's Cumin  
+1 Teaspoon Pepper  
+1/4 Teaspoon Cayenne Pepper  
+1 Can(14 oz) Chicken Broth  
+2 Tablespoons Cornstartch  
+2 Tablespoons Water  
 *Optional*  
 Mexican Blend/Taco Shredded Cheese  
 Sour Cream  
