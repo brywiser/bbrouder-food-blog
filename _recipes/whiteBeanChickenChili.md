@@ -6,7 +6,7 @@ layout: single
 
 One of my favorites growing up!  My dad would always make this on cold fall/winter days in Chicago.  Super easy, and super super quick, 30ish minutes start to finish.  Super flavorful and no added salt if you can believe it.  Feel free to double the beans or try two different types of white(ish) beans for a way to make it your own.  Also tastes good with canned peas or corn as well!  I highly reccomend topping with sour cream and any Mexican or Taco blend shredded cheese.
 
-One of my favorite things about this recipe is while it requires a lot of ingridents, some of which are ones you might already have in your cabinet.  They are also easy ones to just keep in the cupboard for a rainy day.  
+One of my favorite things about this recipe is while it requires a lot of ingredients, some of which are ones you might already have in your cabinet.  They are also easy ones to just keep in the cupboard for a rainy day.  
 ![ChiliIngredients](/assets/img/WhiteChiliIngredients.JPG){:class="img-responsive noprint"}
 
 {% include print.html %}
@@ -16,12 +16,12 @@ One of my favorite things about this recipe is while it requires a lot of ingrid
 1 Tablespoon Olive Oil  
 1 Onion  
 1 Teaspoon Garlic(Adjust to taste)  
-1 Can(14 oz) Great Northern Beans  
-1 Can(14 oz) Green Chilies  
+1 Can (14 oz) Great Northern Beans  
+1 Can (14 oz) Green Chilies  
 1.5 Teaspoon's Cumin  
 1 Teaspoon Pepper  
 1/4 Teaspoon Cayenne Pepper  
-1 Can(14 oz) Chicken Broth  
+1 Can (14 oz) Chicken Broth  
 2 Tablespoons Cornstartch  
 2 Tablespoons Water  
 *Optional*  
