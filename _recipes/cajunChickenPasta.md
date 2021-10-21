@@ -10,9 +10,9 @@ Look now further for a pretty quick and easy weeknight dinner that everyone will
 
 ## Ingredients  
 2 tablespoons olive oil  
-1 pound boneless, skinless chicken thighs (about 4), cut into 1-inch pieces  
+1 lb boneless chicken(thighs or breasts), cut into 1-inch pieces  
 2 1/2 teaspoons Cajun seasoning  
-2 medium green bell peppers, stemmed, seeded and cut into 1/4-inch strips  
+2 bell peppers, stemmed, seeded and cut into 1/4-inch strips  
 1 small yellow onion, thinly sliced  
 2 cloves garlic, chopped(Adjust to taste)  
 12 ounces pasta(Farfelle, Penne, Rotini works great)  
@@ -20,7 +20,9 @@ Look now further for a pretty quick and easy weeknight dinner that everyone will
 One 14.5-ounce can diced tomatoes  
 6 ounces cream cheese, cubed, at room temperature  
 Kosher salt(Adjust to taste)  
-*Optional* 4 scallions, sliced, for serving  
+*Optional*  
+4 scallions, sliced, for serving  
+{:.pageBreak}
 
 ## Directions  
 1. Heat the oil in large wide pot(Make sure it's a large pot) over medium-high heat. Add the chicken and Cajun seasoning and cook, stirring occasionally, until the chicken just starts to change color and the spices are toasted, about 2 minutes.  
