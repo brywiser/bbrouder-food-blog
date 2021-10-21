@@ -4,7 +4,7 @@ collection: recipes
 layout: single
 ---
 
-Look now further for a pretty quick and easy weeknight dinner that everyone will love.  A friend of mine made this for us one day after golf and it was amazing.  Its super easy with not a ton of ingredients, for the cajun seasoning, I used Frank's Redhot seasoning.  You can use whatever cajun seasoning you have, or make your own from scratch!  Its also nice thats theres a gap to let the pasta cook, during that time you can clean up, or get side dishes ready.  
+Look no further for a pretty quick and easy dinner that everyone will love.  A friend of mine made this for us one day after golf and it was amazing.  Its super easy with not a ton of ingredients. For the cajun seasoning, I used Frank's Red Hot seasoning.  You can use whatever cajun seasoning you have, or make your own from scratch!  Its also nice thats theres a time gap to let the pasta cook, during that time you can clean up, or get side dishes ready.  
 
 {% include print.html %}
 
