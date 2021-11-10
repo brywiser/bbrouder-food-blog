@@ -1,5 +1,5 @@
 ---
-title: Pumpkin Pie Recipe
+title: Pumpkin Pie
 collection: recipes
 layout: single
 ---
