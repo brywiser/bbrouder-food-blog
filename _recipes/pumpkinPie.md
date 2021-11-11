@@ -4,7 +4,7 @@ collection: recipes
 layout: single
 ---
 
-This recipe is great for Thanksgiving or just fall weather. It is a very simple pumpkin pie recipe thats simple enough to toss together in just 15 minutes and easy enough for a beginner to make! This was my first pie, and per my family, they said it was fantasic. Feel free to swap out evaporated milk for sweetened condensed milk if you like a slightly sweeter pie. Serve with homemade whipped cream!!  
+This recipe is great for Thanksgiving or just fall weather. It is a very simple pumpkin pie recipe thats simple enough to toss together in just 15 minutes and easy enough for a beginner to make! This was my first pie, and per my family, they said it was fantasic. Feel free to swap out evaporated milk for sweetened condensed milk if you like a slightly sweeter pie. Serve with homemade whipped cream!!  [You can also use home-made crust as well.]({% link _recipes/allButterCrust.md %})
 
 Only takes a few ingredients, you can use a pie pan(I got mine at Aldi for about $8), or a dispoable tin.  
 {:.noprint}

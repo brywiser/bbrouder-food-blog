@@ -6,7 +6,7 @@ layout: single
 
 This is the second pie I have made, I put it together for a friendsgiving that I hosted and my friends loved it.  It's nice can you make it ahead of time, and it can be refrigerated for two days or frozen up to one month.  This is a great general purpose crust you can use for any desert pie you'd like, chicken pot pie, etc.  
 
-With this recipe, I would ensure to weigh the flour rather than go based on the cup amount.  
+With this recipe, I would ensure to weigh the flour rather than go based on the cup amount. This recipe is also designed for a double crust, so it makes a the top and bottom for a 9 inch pie.  
 
 {% include print.html %}
 
