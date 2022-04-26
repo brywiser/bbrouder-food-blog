@@ -4,7 +4,7 @@ collection: recipes
 layout: single
 ---
 
-For those who have had my Banana Bread(Some have described it as amazing, but I dont like to make promisees), here is my recipe.  Its really straightforward, and a good recipe if you are just starting out into baking/cooking as it's a tough recipe to dry out.  You can also make it your own by adding nuts, chocolate chips, cinnamon top(which I explain below) to this recipe.  
+For those who have had my Banana Bread(I have heard good feedback so far, but I dont like to make promisees), here is my recipe.  Its really straightforward, and a good recipe if you are just starting out into baking/cooking as it's a tough one to dry out.  You can also make it your own by adding nuts, chocolate chips, fruit or cinnamon top(which I explain below) to this recipe.  
 
 You want the banana peel to be turning brown, do not use banana's where the peel is still green or mainly yellow.  The photo below is just past the minimum ripeness for the banana's I would use to make the bread, along with the ingredients.  
 ![BananaBreadIngredients](/assets/img/BananaBreadIngredients.JPG){:class="img-responsive noprint"}
@@ -34,7 +34,7 @@ If you add the cinnanmon top, sprinkle it on top after you add the mixture to th
 1 Tablespoon Butter cut in small pieces
 
 ## Directions  
-1. Preheat oven to 350 degrees(F), Grease or line a loaf pan with parchment paper(Tip: Spray the pan with water to get the parchment to stick, this way it keeps the paper out of the way until you add the filling.  Then requires no cleanup after since it's just water)  
+1. Preheat oven to 350 degrees(F), Grease or line a loaf pan with parchment paper(Tip: Spray the pan with water to get the parchment to stick, this way it keeps the paper out of the way until you add the filling.  Then requires no cleanup after since it's just water).  
 2. Combine the flour, baking soda, and salt in a bowl.  In a separate bowl, cream together the sugar and brown sugar.  
 3. Add the banana's to the sugar bowl and mix to combine.  Then add the wet ingredients to the dry and stir until combined.  
 4. Pour the mixture into the loaf pan.  
