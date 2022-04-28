@@ -30,8 +30,8 @@ If you add the cinnanmon top, sprinkle it on top after you add the mixture to th
 ### Cinnanomon Topping(Optional)  
 3 Tablespoons All Purpose Flour  
 3 Tablespoons Sugar  
-1/2 Teaspoon cinnamon
-1 Tablespoon Butter cut in small pieces
+1/2 Teaspoon cinnamon  
+1 Tablespoon Butter cut in small pieces  
 
 ## Directions  
 1. Preheat oven to 350 degrees(F), Grease or line a loaf pan with parchment paper(Tip: Spray the pan with water to get the parchment to stick, this way it keeps the paper out of the way until you add the filling.  Then requires no cleanup after since it's just water).  
